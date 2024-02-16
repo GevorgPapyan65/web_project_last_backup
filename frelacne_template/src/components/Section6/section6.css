@@ -1,0 +1,42 @@
+.obshiDiv{
+    width: 100%;
+    height: 518px;
+    background-color: #F58A07;
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nkar2{
+    background-image: url(../../../public/img/Image\ \(4\).png);
+    width: 920px;
+height: 518px;
+object-fit: cover;
+background-position: center;
+background-size: cover;
+}
+.textAndButton{
+    width: 510px;
+    margin-right: 2%;
+}
+.textAndButton p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+
+    color: #FFFFFF;
+}
+
+.textAndButton button{
+    color: #F58A07;
+    background: #fff;
+    border-radius: 31px;
+    padding: 19px 32px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,97 @@
+.Wrapper3{
+    width: 100%;
+    max-width: 1274px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EDF7FF;
+    height: 600px;
+    margin-top: 3%;
+    border-radius: 20px;
+}
+
+.buttonTextContainer{
+    width: 572px;
+
+
+}
+
+.flex1{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex1 button{
+    background-color: transparent;
+    border-radius: 31px;
+    padding: 8px 24px;
+    border: 1px solid #A8BCCC;
+    color: #A8BCCC;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: capitalize;
+    outline: none;
+}
+.flex1 button:hover{
+    color: #F58A07;
+    border: none;
+    background-color: #fff;
+}
+.buttonTextContainer h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+
+    letter-spacing: -0.03em;
+
+    color: #0D1317;
+    margin-top: 80px;
+}
+.buttonTextContainer p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+
+color: #5B5B5B;
+}
+
+.buttonTextContainer span{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+margin-top: 40px;
+color: #5B5B5B;
+}
+.buttonTextContainer h2{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 106.5%;
+/* identical to box height, or 17px */
+
+
+color: #F58A07;
+}
+
+.nkare{
+    width: 472px;
+height: 466px;
+background-image: url(../../../public/img/Image\ \(2\).png);
+background-position: center;
+object-fit: cover;
+background-size: cover;
+}

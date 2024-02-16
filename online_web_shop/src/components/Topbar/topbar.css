@@ -1,0 +1,50 @@
+.OBSHI{
+    background: rgba(30, 40, 50, 0.05);
+}
+
+.Wrapper{
+    max-width: 1320px;
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #E3E3E3;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2%;
+}
+.leftBar, .centerBar{
+    flex: 1;
+}
+
+.accountShop{
+    width: 200px;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+.account{
+    display: flex;
+    align-items: center;
+}
+.shop{
+    display: flex;
+    align-items: center;
+}
+
+.containerUlLi{
+    width: 100%;
+    height: auto;
+    max-width: 1320px;
+    margin: auto;
+
+}
+
+
+.ulContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ulContainer li{
+    list-style-type: none;
+}

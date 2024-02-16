@@ -1,0 +1,20 @@
+.navBar{
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ulContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ulContainer li{
+    color: #394149;
+    ;
+    padding-right: 20px;
+    list-style-type: none;
+}

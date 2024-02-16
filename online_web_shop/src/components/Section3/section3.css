@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 100%;
+    margin: 0;
+    height: 776px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    background-image: url("../../../public/img/background.png");
+    background-size: cover; /* Adjust this value as per your requirement */
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center
+}
+
+.textDv{
+    width: 504px;
+    height: auto;
+}
+
+.textDv p{
+    color: white;
+    margin: 9% 0 9% 0;
+    text-transform: capitalize;
+    font-size: 26px;
+}
+
+.textDv button{
+    padding: 19px 26px;
+    text-transform: capitalize;
+    font-size: 29px;
+    cursor: pointer;
+}

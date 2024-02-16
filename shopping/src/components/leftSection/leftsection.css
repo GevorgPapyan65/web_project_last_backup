@@ -1,0 +1,26 @@
+.div_left_section{
+    width: 100%;
+    max-width: 200px;
+    margin-left: 10px;
+}
+.sec_1{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 40px;
+}
+ svg{
+    width: 25px;
+    height: 25px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.sec_2{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+.container{
+    width: 100%;
+    width: 120px;
+    margin: auto;
+}

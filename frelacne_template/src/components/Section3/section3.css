@@ -1,0 +1,40 @@
+.dvInfoo{
+    width: 100%;
+    max-width: 1280px;
+    height: 277px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 4%;
+    margin-top: 2%;
+}
+
+.dvInfoo1, .dvInfoo2, .dvInfoo3{
+    width: 401px;
+    height: 277px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.dvInfoo h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 106.5%;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+    margin-left: 5%;
+}
+
+.dvInfoo p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1D3444;
+    opacity: 0.8;
+    margin-left: 5%;
+}

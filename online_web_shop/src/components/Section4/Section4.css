@@ -1,0 +1,55 @@
+.mecatar{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 50px;
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
+.nkarneriContainer{
+    width: 100%;
+    max-width: 1320px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.nkarHamar1{
+    width: 200px;
+    height: 200px;
+}
+
+.mecatar2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+    padding-bottom: 5%;
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 6%;
+}
+.typeInput{
+    width: 760px;
+    padding-left: 15px;
+    padding-bottom: 13px;
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    border-bottom: 2px solid black;
+}
+.typeInput:focus{
+    outline: none;
+}
+.inputeButton{
+    border:none;
+    margin-left: 1%;
+    background: transparent;
+    padding: 0 16px 10px 16px;
+    border-bottom: 2px solid black;
+    font-size: 16px;
+    cursor: pointer;
+}

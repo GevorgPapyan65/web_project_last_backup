@@ -1,0 +1,58 @@
+.Obshi1{
+    max-width: 1320px;
+    width: 100%;
+    height: 648px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.dzaxSide{
+    height: 648px;
+    width: 648px;
+    background-image: url("../../../public/img/18.png");
+}
+
+.ajSide{
+    height: 648px;
+    width: 648px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+
+}
+
+.nkar1{
+    width: 312px;
+    height: 312px;
+    background-image: url("../../../public/img/01.png");
+    background-size: cover; /* Adjust this value as per your requirement */
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.nkar2{
+    width: 312px;
+    height: 312px;
+    background-image: url("../../../public/img/03.png");
+    background-size: cover; /* Adjust this value as per your requirement */
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.nkar3{
+    width: 312px;
+    height: 312px;
+    background-size: cover; /* Adjust this value as per your requirement */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("../../../public/img/02.png");
+}
+.nkar4{
+    width: 312px;
+    height: 312px;
+    background-image: url("../../../public/img/20.png");
+    background-size: cover; /* Adjust this value as per your requirement */
+    background-repeat: no-repeat;
+    background-position: center center;
+}

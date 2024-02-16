@@ -1,0 +1,35 @@
+.infoDiv33  {
+    width: 550px;
+    height: 100%;
+}
+.infoDiv33 h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+/* or 117% */
+
+letter-spacing: -0.03em;
+text-transform: capitalize;
+
+color: #0D1317;
+}
+
+.infoDiv33 p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+
+color: #5B5B5B;
+}
+
+.nkarCka{
+    width: 620px;
+height: 501px;
+/* background-color: black; */
+}

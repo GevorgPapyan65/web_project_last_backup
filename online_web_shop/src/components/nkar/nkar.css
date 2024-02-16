@@ -1,0 +1,63 @@
+
+
+
+
+
+
+.colectionsContainer{
+    width: 100%;
+    max-width: 1320px;
+    height: 562px;
+    margin: auto;
+    display: flex;
+    
+    justify-content: space-between;
+    padding-top: 10%;
+}
+.leftSide{
+    width: 100%;
+    max-width: 49%;
+}
+
+.leftSide h2{
+    font-size: 74px;
+    font-weight: 300;
+}
+
+.leftSide span{
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+
+}
+
+.leftSide button{
+    margin-top: 66px;
+    background: #1E2832;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 19px 64px;
+}
+
+.leftSide button:hover{
+    background-color: #fff;
+    color: #1E2832;
+}
+.imgDiv{
+    width: 365px;
+    height: 523px;
+    border: 1px solid gray;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+
+}
+.imgDiv img{
+    width: 387px;
+    height: 562px;
+    object-fit: cover;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin: -54px 0 13px -93px;
+}
